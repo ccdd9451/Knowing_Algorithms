@@ -1,0 +1,3 @@
+# using nbstripout to remove outputs from git store.
+pip install nbstripout
+nbstripout install
